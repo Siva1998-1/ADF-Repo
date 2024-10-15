@@ -1,0 +1,9 @@
+{
+	"name": "ADFrain2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de555498-7afa-4c19-9d3f-6e4c45b1e587",
+		"tenantId": "3e1edd62-9e22-4f6a-892a-962b0ff5aac8"
+	}
+}
